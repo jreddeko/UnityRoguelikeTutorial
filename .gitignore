@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [Ll]ibrary
 [Tt]emp
 [Oo]bj
@@ -47,19 +47,15 @@ ExportedObj/
 
 # Unity3D generated meta files
 *.pidb.meta
->>>>>>> 817d8db0163682d733829cc2070f0ece91c2e980
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
 # Builds
-<<<<<<< HEAD
 .apk
 .unitypackage
 bin/
 test_Data/
 *.exe
-=======
 *.apk
 *.unitypackage
->>>>>>> 817d8db0163682d733829cc2070f0ece91c2e980
